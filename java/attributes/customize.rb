@@ -1,1 +1,1 @@
-normal['java']['jdk_version'] = '8'
+normal['java']['jdk_version'] = '7'
